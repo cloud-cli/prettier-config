@@ -1,0 +1,17 @@
+{
+  "name": "@cloud-cli/prettier-config",
+  "version": "0.0.0",
+  "main": "./index.json",
+  "prettier": "./index.json",
+  "scripts": {
+    "build": "echo true",
+    "test": "echo true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-cli/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
